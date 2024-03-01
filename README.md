@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![marde-vr's 42 stats](https://badge42.coday.fr/api/v2/clt8nrw811437701p4lmpfjoh3/stats?cursusId=21&coalitionId=220)](https://github.com/Coday-meric/badge42)
+
 <!--
 **mdev9/mdev9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
