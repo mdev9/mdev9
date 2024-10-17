@@ -6,6 +6,11 @@ I'm a passionate student at 42 Angoulême 🎓, diving deep into the world of pr
 
 ## 💻 Projects
 
+<details>
+<summary>
+  Click here 👈 🖱️
+</summary>
+  
 ### 🌌 [Transcendence](https://github.com/mdev9/ft_transcendence) 
 Developed a full-stack multiplayer web game using Django and Three.js. Secure user authentication, WebSocket communication, AI, real-time chat, responsive design, API development, and modern web technologies.
 
@@ -26,6 +31,8 @@ Simulated the dining philosophers problem with multithreading and mutex synchron
 
 ### 📚 [Libft](https://github.com/mdev9/libft) 
 Developed a custom C standard library with over 40 common functions, including memory management, string manipulation, and linked lists.
+</details>
+
 
 ## ⚙️ Technologies
 
