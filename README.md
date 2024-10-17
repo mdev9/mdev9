@@ -6,7 +6,7 @@
 
 <details>
 <summary>
-  Click here 👈 🖱️
+  <b>Click here</b> 👈 🖱️
 </summary>
   
 ### 🌌 [Transcendence](https://github.com/mdev9/ft_transcendence) 
