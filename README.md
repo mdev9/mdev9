@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-👋 Hello, I'm Marijn! I'm a passionate student at 42 Angoulême 🎓, diving deep into the world of programming and technology! 💻✨ My journey has been fueled by my love for entrepreneurship 🚀 and virtual reality (VR) 🎮. I believe in the power of innovative tech to change lives 🌍 and create amazing experiences 😎👌🔥. 
+Diving deep into the world of programming and technology! 💻✨ Passionate about entrepreneurship 🚀 and virtual reality enthusiast. I believe in the power of innovative tech to change lives 🌍 and create amazing experiences 😎👌🔥. 
 
 ## 💻 Projects
 
